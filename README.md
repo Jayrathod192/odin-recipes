@@ -1,4 +1,4 @@
-# git_test
+# odin-recipes
 
-My first github repo
-Hello Odin...
+First project of THE ODIN PROJECT
+testing my skills with this odin-recieps project......
